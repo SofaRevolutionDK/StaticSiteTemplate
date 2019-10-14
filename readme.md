@@ -2,7 +2,7 @@
 
 ### Webpack, SCSS, JS
 
-Just a template for building static sites, catering to my personal preferences. Clone, use it, make your own version of it if you like. 
+Just a template for building static sites, catering to my personal preferences. Clone, use it, make your own version of it if you like.
 
 - Clone
 
@@ -10,4 +10,4 @@ Just a template for building static sites, catering to my personal preferences. 
 
 - `$ npm run dev` to start development server - no minification or PostCSS processing
 
-- run `$> npm run build` to build to production with minification and PostCSS prefixing
+- run `$ npm run build` to build to production with minification and PostCSS prefixing
